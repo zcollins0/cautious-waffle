@@ -1,1 +1,20 @@
-rect.bar {fill: steelblue;}
+html {
+    background-color: #dddddd;
+}
+
+body {
+    width: 95%;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #333333;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+div#myDiv {
+    max-width: 1200px;
+    margin: auto;
+}

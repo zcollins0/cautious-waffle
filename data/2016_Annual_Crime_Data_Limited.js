@@ -1,4 +1,4 @@
-Offense,Date,Zip
+let text=`Offense,Date,Zip
 Agg Assault,1-01-16,78735
 Theft,1-01-16,78701
 Robbery,1-01-16,78753
@@ -37459,4 +37459,4 @@ Theft,31-12-16,78757
 Theft,31-12-16,78701
 Theft,31-12-16,78723
 Theft,31-12-16,78742
-Theft,31-12-16,78705
+Theft,31-12-16,78705`
