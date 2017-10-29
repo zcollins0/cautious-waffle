@@ -10,11 +10,28 @@ body {
     margin: auto;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
+    font-weight: 100;
+}
+
+h2 {
+    margin-bottom: 2em;
+}
+
+div#select {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 2em;
 }
 
 div#myDiv {
     max-width: 1200px;
+    margin: auto;
+}
+
+div#iframe {
+    width: 100%;
+    height: 100%;
     margin: auto;
 }
