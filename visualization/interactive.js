@@ -71,4 +71,3 @@ var data = [trace];
 
 Plotly.newPlot('myDiv', data, layout);
 
-

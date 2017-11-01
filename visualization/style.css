@@ -35,3 +35,13 @@ div#iframe {
     height: 100%;
     margin: auto;
 }
+
+#zip {
+    margin-top: 1em;
+    float: left;
+}
+
+#crime {
+    margin-top: 1em;
+    float: right;
+}
